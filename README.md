@@ -3,12 +3,9 @@
 Link to deployed application:
 https://akrestaurant-frontend.herokuapp.com/dashboard
 
-
-
 Documentation of your API
 
 
-Screenshots of your application; this makes your application description much easier to understand
 Screenshots:
 Dashboard 
 ![dashboard](https://github.com/AndrewKehr/Restaurant/blob/main/readme/AKRestaurant.png)
@@ -26,3 +23,8 @@ Technology:
 This application was made using Node, Express, PostgreSQL, and React.
 
 Installation instructions
+1. Fork and clone this repository.
+2. Run `npm install` to install project dependencies.
+3. Run `npm run start:dev` to start your server in development mode.
+
+If you have trouble getting the server to run, reach out for assistance.
