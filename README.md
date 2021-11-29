@@ -3,8 +3,8 @@
 Link to deployed application:
 https://akrestaurant-frontend.herokuapp.com/dashboard
 
-Documentation of your API
-
+Documentation of your API:
+Write down routes and an example of the response
 
 Screenshots:
 Dashboard 
